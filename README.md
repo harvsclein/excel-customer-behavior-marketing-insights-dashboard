@@ -289,6 +289,20 @@ Although Younger Adults represent the smallest customer segment, they appear to 
 
 ---
 
+# Strategic Recommendations
+
+- **Launch targeted marketing campaigns for Young Adults**, as they have the highest average campaign acceptance despite being the smallest customer segment, indicating strong potential for higher marketing effectiveness.
+
+- **Strengthen in-store promotions and customer loyalty programs**, since physical stores account for **66%** of all purchases and remain the preferred purchasing channel.
+
+- **Prioritize promotions and inventory planning for Wine and Meat products**, as these categories generate the highest sales and contribute the most to overall revenue.
+
+- **Develop personalized marketing strategies for Older Adults and high-income customers**, as these customer segments generate the highest spending and represent the company's most valuable customers.
+
+- **Improve customer segmentation for future marketing campaigns**, as only **21%** of customers accepted at least one campaign, suggesting opportunities to increase campaign effectiveness through more targeted marketing.
+
+---
+
 # Interactive Features
 
 The dashboard includes slicers that dynamically update every KPI and visualization.
