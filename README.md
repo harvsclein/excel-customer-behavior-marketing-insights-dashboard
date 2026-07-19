@@ -14,7 +14,7 @@ An interactive Microsoft Excel dashboard that analyzes customer demographics, pu
 
 The objective of this project is to transform raw customer marketing data into an interactive dashboard that provides meaningful business insights. Using Microsoft Excel, the project converts raw customer data into visual reports that help identify purchasing behavior, customer demographics, and marketing campaign performance.
 
-The dashboard allows users to interactively filter data using slicers, making it easier to analyze different customer segments and compare business metrics across multiple dimensions.
+The dashboard allows users to interactively filter data using slicers, making it easier to analyze different customer segments and compare business metrics across multiple dimensions. Based on the insights generated, the project also includes strategic recommendations to support data-driven business decisions.
 
 ---
 
