@@ -39,10 +39,6 @@ This dashboard answers the following business questions:
 
 **Source:** [Kaggle – Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-## Dataset Summary
-
-The Customer Personality Analysis dataset contains customer demographic information, purchasing behavior, and marketing campaign responses collected by a retail company. It is commonly used for customer segmentation and marketing analytics.
-
 ### Dataset Characteristics
 
 - **Rows:** 2,240 customer records
