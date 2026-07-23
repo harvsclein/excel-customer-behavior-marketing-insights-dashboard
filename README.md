@@ -1,6 +1,6 @@
 # Customer Behavior & Marketing Insights Dashboard
 
-An interactive Microsoft Excel dashboard that analyzes customer demographics, purchasing behavior, and marketing campaign performance using the **Customer Personality Analysis** dataset. This project demonstrates a complete Excel analytics workflow, including data cleaning, feature engineering, Pivot tables, KPI development, and dashboard design.
+An interactive Microsoft Excel dashboard that analyzes customer demographics, purchasing behavior, and marketing campaign performance using the **Customer Personality Analysis** dataset. This project demonstrates a complete Excel analytics workflow, including data cleaning, feature engineering, Pivot Tables, KPI development, and dashboard design.
 
 ---
 
